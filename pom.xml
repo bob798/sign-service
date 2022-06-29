@@ -124,7 +124,7 @@
         <dependency><!-- 测试pdf读取内容的 -->
             <groupId>org.apache.pdfbox</groupId>
             <artifactId>pdfbox</artifactId>
-            <version>1.8.10</version>
+            <version>1.8.16</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.bouncycastle/bcprov-jdk15on -->
